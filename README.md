@@ -8,10 +8,10 @@
 <div style="display: flex; justify-content: space-between;">
 
   <a href="https://github.com/Edinbo">
-    <img height="100" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edinbo&theme=dark&hide_border=false" />
+    <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edinbo&theme=dark&hide_border=false" />
   </a>
   <a href="https://github.com/Edinbo">
-    <img height="200" align="center" src="https://github-contributor-stats.vercel.app/api?username=Edinbo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+    <img height="150" align="center" src="https://github-contributor-stats.vercel.app/api?username=Edinbo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
   </a>
   
   <a href="https://github.com/Edinbo">
