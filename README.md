@@ -7,12 +7,10 @@
     </a>
 </div>
 
-<div style="margin-left: auto">
-  <div style="flex-basis: 48%;">
+<div style="margin-left: 500px">
     <a href="https://github.com/Edinbo">
       <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </a>
-  </div>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
