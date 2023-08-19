@@ -7,7 +7,7 @@
 
 ## GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Edinbo&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Edinbo&theme=dark&hide_border" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edinbo&layout=compact&langs_count=8&card_width=320&theme=darkdark&hide_border" />
@@ -15,8 +15,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Edinbo&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
