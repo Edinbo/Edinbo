@@ -14,7 +14,7 @@
 &count_private=true
 &layout=compact
 &custom_title=Edinbo
-&card_width=600                     
+&card_width=700                     
 )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Edinbo&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
