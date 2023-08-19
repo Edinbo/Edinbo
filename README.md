@@ -10,7 +10,7 @@
 <div style="margin-top: 50px">
     </br>
     <a href="https://github.com/Edinbo">
-      <a>                                                                     </a><img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><a>                                                                   </a>
+      <a>                                                                     </a><img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><a>                                                                     </a>
     </a>
 </div>
 
