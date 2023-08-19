@@ -7,7 +7,7 @@
     </a>
 </div>
 
-<div style="margin-left: 500px">
+<div style="margin-left: -500px">
     <a href="https://github.com/Edinbo">
       <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </a>
